@@ -1,0 +1,25 @@
+[
+    {
+        "name": "40 Tools in 20 Minutes: Hacking your marketing career",
+        "imageUrl":  "40-tools-in-20-minutes/i-cover.jpeg",
+        "courseUrl": "40-tools-in-20-minutes/course.json"
+    },
+
+    {
+        "name": "Pixar's 22 rules to Phenomenal Storytelling",
+        "imageUrl":  "pixars-20-rules-storytelling/01-cover.jpg",
+        "courseUrl": "pixars-20-rules-storytelling/course.json"
+    },
+
+    {
+        "name": "Yura's first course",
+        "imageUrl": "yura-course/cover.png",
+        "courseUrl": "yura-course/course.json"
+    },
+
+    {
+        "name": "Best Practices in Community Management",
+        "imageUrl": "community-course/panel.jpg",
+        "courseUrl": "community-course/course.json"
+    }
+]
