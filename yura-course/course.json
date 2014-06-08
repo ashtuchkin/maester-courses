@@ -11,7 +11,10 @@
             {"text": "What was the question again?"}
         ]},
         { "text": "And here is\n how to do\n multiline \n \n Course update test" },
-        { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg" },
-        { "text": "That's all for now! See github and create something awesome!" }
+        { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg", "textColor": "#ffffff" },
+        { "text": "That's all for now! See github and create something awesome!", "buttons": [
+            {"text": "Open GitHub repo", "action": "https://github.com/ashtuchkin/maester-courses"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
     ]
 }
