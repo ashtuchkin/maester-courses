@@ -25,6 +25,31 @@ Created at #SFB2B Startup Weekend on June 6-7, 2014. Public domain.
        * **action**: Either a full url to open in browser, or 'close' - to close the course.
 
 
+## Sample 
+
+```json
+{
+    "name": "Yura's course",
+    "slides": [
+        { "text": "Hello Yura!" },
+        { "text": "Welcome to our first course! Yo!" },
+        { "text": "A background can be changed like this", "backgroundColor": "#3e313c", "textColor": "#ffffff" },
+        { "text": "Do you like it?", "answers": [
+            {"text": "Totally!", "hint": "Really?"}, 
+            {"text": "Not really", "hint": "Wrong!!"}, 
+            {"text": "You bet!", "correct": true, "hint": "Congratulations!"},
+            {"text": "What was the question again?"}
+        ]},
+        { "text": "And here is\n how to do\n multiline \n \n Course update test" },
+        { "text": "You can even use a picture with this text!", "imageUrl": "imagesample.jpg", "textColor": "#ffffff" },
+        { "text": "That's all for now! See github and create something awesome!", "buttons": [
+            {"text": "Open GitHub repo", "action": "https://github.com/ashtuchkin/maester-courses"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
+    ]
+}
+```
+
 
 
 
