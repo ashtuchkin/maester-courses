@@ -1,19 +1,19 @@
 [
     {
         "name": "Best Practices in Hiring Online Work",
-        "imageUrl": "odesk/tmp-cover.jpeg",
-        "courseUrl": "odesk/course.json"
+        "imageUrl": "1-odesk/tmp-cover.jpeg",
+        "courseUrl": "1-odesk/course.json"
     },
 
     {
         "name": "Salesforce CRM: Refresher Course",
-        "imageUrl": "salesforce/tmp-cover.jpeg",
-        "courseUrl": "salesforce/course.json"
+        "imageUrl": "2-salesforce/tmp-cover.jpeg",
+        "courseUrl": "2-salesforce/course.json"
     },
 
     {
         "name": "Get Funded in Canada",
-        "imageUrl": "boast-capital/tmp-cover.jpeg",
-        "courseUrl": "boast-capital/course.json"
+        "imageUrl": "3-boast-capital/tmp-cover.jpeg",
+        "courseUrl": "3-boast-capital/course.json"
     }
 ]
