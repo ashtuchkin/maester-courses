@@ -1,25 +1,19 @@
 [
     {
-        "name": "40 Tools in 20 Minutes: Hacking your marketing career",
-        "imageUrl":  "40-tools-in-20-minutes/i-cover.jpeg",
-        "courseUrl": "40-tools-in-20-minutes/course.json"
+        "name": "Best Practices in Hiring Online Work",
+        "imageUrl": "odesk/tmp-cover.jpeg",
+        "courseUrl": "odesk/course.json"
     },
 
     {
-        "name": "Pixar's 22 rules to Phenomenal Storytelling",
-        "imageUrl":  "pixars-20-rules-storytelling/01-cover.jpg",
-        "courseUrl": "pixars-20-rules-storytelling/course.json"
+        "name": "Salesforce CRM: Refresher Course",
+        "imageUrl": "salesforce/tmp-cover.jpeg",
+        "courseUrl": "salesforce/course.json"
     },
 
     {
-        "name": "Yura's first course",
-        "imageUrl": "yura-course/cover.png",
-        "courseUrl": "yura-course/course.json"
-    },
-
-    {
-        "name": "Best Practices in Community Management",
-        "imageUrl": "community-course/panel.jpg",
-        "courseUrl": "community-course/course.json"
+        "name": "Get Funded in Canada",
+        "imageUrl": "boast-capital/tmp-cover.jpeg",
+        "courseUrl": "boast-capital/course.json"
     }
 ]
