@@ -9,7 +9,7 @@
         { "imageUrl": "5.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "6.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "7.png", "backgroundColor": "#f5f5f5" },
-        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "Is Salesforce1\n a mobile or web platform?", "answers": [
+        { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "Is Salesforce1\n a mobile or a web platform?", "answers": [
             {"text": "Web", "hint": "Epic disaster! Try again?"}, 
             {"text": "Mobile", "hint": "What a miss! Another guess?"}, 
             {"text": "Both", "correct": true, "hint": "My impressed. Total true!"}
