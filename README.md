@@ -14,6 +14,8 @@ Created at #SFB2B Startup Weekend on June 6-7, 2014. Public domain.
    * **slides**: Array of course slides. Format of slide (all parameters optional):
      * **text**: Main text or question.
      * **imageUrl**: Relative url of the slide picture, ~500x700. Will be resized as needed to fill the screen.
+     * **backgroundColor**: Color of the background, in usual CSS format (#abcdef)
+     * **textColor**: Color of main text.
      * **answers**: Array of possible answers. Format:
        * **text**: Answer text.
        * **correct**: Is this answer correct (true or false, without quotes).
