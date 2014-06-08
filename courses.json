@@ -1,19 +1,19 @@
 [
     {
         "name": "Best Practices in Hiring Online Work",
-        "imageUrl": "1-odesk/0-cover.jpg",
+        "imageUrl": "1-odesk/0-cover.png",
         "courseUrl": "1-odesk/course.json"
     },
 
     {
         "name": "Salesforce CRM: Refresher Course",
-        "imageUrl": "2-salesforce/0-cover.jpg",
+        "imageUrl": "2-salesforce/0-cover.png",
         "courseUrl": "2-salesforce/course.json"
     },
 
     {
         "name": "Innovation Support from Canada Government",
-        "imageUrl": "3-boast-capital/0-cover.jpg",
+        "imageUrl": "3-boast-capital/0-cover.png",
         "courseUrl": "3-boast-capital/course.json"
     }
 ]

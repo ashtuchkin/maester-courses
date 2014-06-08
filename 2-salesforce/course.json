@@ -1,7 +1,7 @@
 {
     "name": "Salesforce Refresher: Trends, Tricks and Best Practices",
     "slides": [
-        { "imageUrl": "0-cover.png"  },
+        { "imageUrl": "0-cover.png", "backgroundColor": "#232333"  },
         { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
         { "text": "Question?", "backgroundColor": "#f5f5f5", "answers": [
             {"text": "First answer", "correct": true, "hint": "My impressed. Total true!"}, 
@@ -9,7 +9,7 @@
             {"text": "Third answer", "hint": "Epic disaster! Try again?"}
         ]},
         { "imageUrl": "0-completed.png", "buttons": [
-            {"text": "Open Salesforce CRM website", "action": "https://www.salesforce.com/crm/"},
+            {"text": "Open Salesforce CRM website", "backgroundColor": "#2b2b6d", "action": "https://www.salesforce.com/crm/"},
             {"text": "Back to Course List", "action": "close"}
         ]}
     ]

@@ -1,7 +1,7 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "imageUrl": "0-cover.png"  },
+        { "imageUrl": "0-cover.png", "backgroundColor": "#232333"  },
         { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
@@ -17,7 +17,7 @@
         { "imageUrl": "0-offer.png", "buttons": [
             {"text": "Email me coupon", "action": "http://odesk.com/"}
         ]},
-        { "imageUrl": "0-completed.png", "buttons": [
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
             {"text": "Open Odesk website", "action": "http://odesk.com/"},
             {"text": "Back to Course List", "action": "close"}
         ]}
