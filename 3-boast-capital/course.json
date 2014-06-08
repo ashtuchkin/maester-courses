@@ -1,29 +1,16 @@
 {
-    "name": "Get Funded in Canada",
+    "name": "Innovation Funding from Canada Government",
     "slides": [
-        {"text": "Boast Capital is awesome"},
-        {"imageUrl": "02.jpg"},
-        {"imageUrl": "03.jpg"},
-        {"imageUrl": "04.jpg"},
-        {"imageUrl": "05.jpg"},
-        {"imageUrl": "06.jpg"},
-        {"imageUrl": "07.jpg"},
-        {"imageUrl": "08.jpg"},
-        {"imageUrl": "09.jpg"},
-        {"imageUrl": "10.jpg"},
-        {"imageUrl": "11.jpg"},
-        {"imageUrl": "12.jpg"},
-        {"imageUrl": "13.jpg"},
-        {"imageUrl": "14.jpg"},
-        {"imageUrl": "15.jpg"},
-        {"imageUrl": "16.jpg"},
-        {"imageUrl": "17.jpg"},
-        {"imageUrl": "18.jpg"},
-        {"imageUrl": "19.jpg"},
-        {"imageUrl": "20.jpg"},
-        {"imageUrl": "21.jpg"},
-        {"imageUrl": "22.jpg"},
-        {"imageUrl": "23.jpg"},
-        {"imageUrl": "24.jpg"}
+        { "text": "Innovation Funding\n from Canada Government", "backgroundColor": "#f5f5f5"  },
+        { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
+        { "text": "Question?", "backgroundColor": "#f5f5f5", "answers": [
+            {"text": "First answer", "correct": true, "hint": "My impressed. Total true!"}, 
+            {"text": "Second answer", "hint": "What a miss! Another guess?"}, 
+            {"text": "Third answer", "hint": "Epic disaster! Try again?"}
+        ]},
+        { "text": "Congrats!\n Course completed!", "buttons": [
+            {"text": "Open Boost Capital website", "action": "http://odesk.com/"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
     ]
 }
