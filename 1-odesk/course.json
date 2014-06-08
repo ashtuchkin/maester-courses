@@ -1,7 +1,7 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "text": "Best Practices in Hiring Online Work\n\n by oDesk", "textColor": "#f5f5f5"  },
+        { "text": "Best Practices in Hiring Online Work\n\n by oDesk", "backgroundColor": "#f5f5f5"  },
         { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
@@ -18,8 +18,7 @@
             {"text": "Open Odesk website", "action": "http://odesk.com/"},
             {"text": "Back to Course List", "action": "close"}
         ]}
-    ],
-    "comment": "backgroundColor imageUrl"
+    ]
 }
 
 
