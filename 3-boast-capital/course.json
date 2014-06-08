@@ -8,8 +8,8 @@
             {"text": "Second answer", "hint": "What a miss! Another guess?"}, 
             {"text": "Third answer", "hint": "Epic disaster! Try again?"}
         ]},
-        { "imageUrl": "0-completed.png", "buttons": [
-            {"text": "Open Boast Capital website", "backgroundColor": "#2b2b6d", "action": "http://boastcapital.com/"},
+        { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
+            {"text": "Open Boast Capital website", "action": "http://boastcapital.com/"},
             {"text": "Back to Course List", "action": "close"}
         ]}
     ]
