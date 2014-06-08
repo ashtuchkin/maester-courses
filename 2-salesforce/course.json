@@ -15,7 +15,7 @@
             {"text": "Both", "correct": true, "hint": "My impressed. Total true!"}
         ]},
         { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
-            {"text": "Open Salesforce CRM website", "action": "https://www.salesforce.com/crm/"},
+            {"text": "Get Salesforce1 White Paper", "action": "https://www.salesforce.com/form/offer/platform-idc-wp.jsp?d=70130000000ljWV&nc=70130000000lXSm"},
             {"text": "Back to Course List", "action": "close"}
         ]}
     ]
