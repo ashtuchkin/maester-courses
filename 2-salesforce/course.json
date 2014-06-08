@@ -1,15 +1,15 @@
 {
     "name": "Salesforce Refresher: Trends, Tricks and Best Practices",
     "slides": [
-        { "text": "Salesforce Refresher:\n Trends, Tricks and Best Practices", "backgroundColor": "#f5f5f5"  },
+        { "imageUrl": "0-cover.png"  },
         { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
         { "text": "Question?", "backgroundColor": "#f5f5f5", "answers": [
             {"text": "First answer", "correct": true, "hint": "My impressed. Total true!"}, 
             {"text": "Second answer", "hint": "What a miss! Another guess?"}, 
             {"text": "Third answer", "hint": "Epic disaster! Try again?"}
         ]},
-        { "text": "Congrats!\n Course completed!", "buttons": [
-            {"text": "Open Salesforce website", "action": "http://odesk.com/"},
+        { "imageUrl": "0-completed.png", "buttons": [
+            {"text": "Open Salesforce CRM website", "action": "https://www.salesforce.com/crm/"},
             {"text": "Back to Course List", "action": "close"}
         ]}
     ]
