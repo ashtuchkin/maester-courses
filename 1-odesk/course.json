@@ -9,7 +9,10 @@
         { "text": "2. Share mockups and ask for feedback. Pre-product audience helps a lot during the launch." },
         { "text": "3. Build your product around pre-existing behavior on other services. It’s very hard to build an entirely new set of behaviors." },
         { "text": "4. Frequency of use is hugely important. It is much much easier to build a community around daily-used product than around weekly-used one." },
-        { "text": "Congrats!\n Course completed!" }
+        { "text": "Congrats!\n Course completed!", "buttons": [
+            {"text": "Open Odesk website", "action": "http://odesk.com/"},
+            {"text": "Back to Course List", "action": "close"}
+        ]}
     ],
     "comment": "backgroundColor imageUrl"
 }
