@@ -2,14 +2,14 @@
     "name": "Best Practices in Hiring Online Work",
     "slides": [
         { "text": "Best Practices in Hiring Online Work\n\n by oDesk", "textColor": "#f5f5f5"  },
-        { "imageUrl": "1.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "2.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "3.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "4.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "5.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "6.png", "textColor": "#f5f5f5" },
-        { "imageUrl": "7.png", "textColor": "#f5f5f5" },
-        { "text": "How much does an oDesk job posting cost??", "textColor": "#f5f5f5", "answers": [
+        { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "4.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "5.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "6.png", "backgroundColor": "#f5f5f5" },
+        { "imageUrl": "7.png", "backgroundColor": "#f5f5f5" },
+        { "text": "How much does an oDesk job posting cost??", "backgroundColor": "#f5f5f5", "answers": [
             {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
             {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
             {"text": "10$  per job posting", "hint": "Epic disaster! Try again?"},
