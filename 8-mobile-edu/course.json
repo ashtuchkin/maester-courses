@@ -1,7 +1,7 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "imageUrl": "0-cover.png", "backgroundColor": "#232333"  },
+        { "text": "How to\n Teach \n on Mobile\n\n\n by Verner", "backgroundColor": "#232333", "textColor": "#eee"  },
         { "imageUrl": "1.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "2.png", "backgroundColor": "#f5f5f5" },
         { "imageUrl": "3.png", "backgroundColor": "#f5f5f5" },
