@@ -25,5 +25,26 @@
         "author": "Etienne Garbugli",
         "imageUrl": "4-time-mgmt-hacks/i-0.jpg",
         "courseUrl": "4-time-mgmt-hacks/course.json"
+    },
+
+    {
+        "name": "50 Powerful Statistics About Tech Mega Trends",
+        "author": "Vala Afshar",
+        "imageUrl": "5-megatrends/i-0.jpg",
+        "courseUrl": "5-megatrends/course.json"
+    },
+
+    {
+        "name": "Crap Content Marketing",
+        "author": "Velocity",
+        "imageUrl": "6-crap/i-0.jpg",
+        "courseUrl": "6-crap/course.json"
+    },
+
+    {
+        "name": "What Would Steve Do?",
+        "author": "Steve, Scott & Gary",
+        "imageUrl": "7-what-would-steve-do/i-0.jpg",
+        "courseUrl": "7-what-would-steve-do/course.json"
     }
 ]
