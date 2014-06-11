@@ -8,7 +8,7 @@
             {"text": "10$  per job posting", "hint": "Epic disaster! Try again?"}
         ]},
         { "imageUrl": "0-completed.png", "backgroundColor": "#2b2b6d", "buttons": [
-            {"text": "Open Odesk website", "action": "http://odesk.com/"},
+            {"text": "Contact author", "action": "http://facebook.com/lifshits"},
             {"text": "Back to Course List", "action": "close"}
         ]}
     ]
