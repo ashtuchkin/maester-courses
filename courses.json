@@ -1,23 +1,9 @@
 [
     {
-        "name": "Best Practices in Hiring Online Work",
-        "author": "oDesk",
-        "imageUrl": "1-odesk/0-cover-small.png",
-        "courseUrl": "1-odesk/course.json"
-    },
-
-    {
-        "name": "Salesforce CRM: Refresher Course",
-        "author": "Salesforce",
-        "imageUrl": "2-salesforce/0-cover-small.png",
-        "courseUrl": "2-salesforce/course.json"
-    },
-
-    {
-        "name": "Innovation Support from Canada Government",
-        "author": "Boast Capital",
-        "imageUrl": "3-boast-capital/0-cover-small.png",
-        "courseUrl": "3-boast-capital/course.json"
+        "name": "How to Teach on Mobile",
+        "author": "Verner",
+        "imageUrl": "8-mobile-edu/0-cover-small.png",
+        "courseUrl": "8-mobile-edu/course.json"
     },
 
     {
@@ -46,5 +32,28 @@
         "author": "Steve, Scott & Gary",
         "imageUrl": "7-what-would-steve-do/i-0.jpg",
         "courseUrl": "7-what-would-steve-do/course.json"
+    },
+
+
+    {
+        "name": "Best Practices in Hiring Online Work",
+        "author": "oDesk",
+        "imageUrl": "1-odesk/0-cover-small.png",
+        "courseUrl": "1-odesk/course.json"
+    },
+
+    {
+        "name": "Salesforce CRM: Refresher Course",
+        "author": "Salesforce",
+        "imageUrl": "2-salesforce/0-cover-small.png",
+        "courseUrl": "2-salesforce/course.json"
+    },
+
+    {
+        "name": "Innovation Support from Canada Government",
+        "author": "Boast Capital",
+        "imageUrl": "3-boast-capital/0-cover-small.png",
+        "courseUrl": "3-boast-capital/course.json"
     }
+
 ]
