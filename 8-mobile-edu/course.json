@@ -1,7 +1,7 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "text": "How to\n Teach \n on Mobile\n\n\n by Verner", "backgroundColor": "#232333", "textColor": "#eee"  },
+        { "text": "How to\n Teach \n on Mobile\n\n\n by Verner", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How much does an oDesk job posting cost?", "answers": [
             {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
             {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
