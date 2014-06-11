@@ -1,7 +1,17 @@
 {
     "name": "Best Practices in Hiring Online Work",
     "slides": [
-        { "text": "How to\n Teach \n on Mobile\n\n\n by Verner", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "TEACHER\n TOUCH\n \n How to\n Teach \n on Mobile\n\n\n by Yury Lifshits", "backgroundColor": "#232333", "textColor": "#eeeeee"  },
+        { "text": "LEVELS\n\n 1. Anatomy of Mobile Learning \n 2. Key Components \n 3. Best Practices", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "a", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "b", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "c", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "d", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "e", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "f", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "g", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "h", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
+        { "text": "i", "backgroundColor": "#55acee", "textColor": "#fefefe"  },
         { "imageUrl": "0-question.png", "backgroundColor": "#f3f3f3", "text": "\n \n How much does an oDesk job posting cost?", "answers": [
             {"text": "It's free!", "correct": true, "hint": "My impressed. Total true!"}, 
             {"text": "Some free, some paid", "hint": "What a miss! Another guess?"}, 
